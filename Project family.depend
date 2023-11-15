@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679241401 source:c:\users\oumaima\onedrive - imt mines ales\documents\2ia\c\projet\project family\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
